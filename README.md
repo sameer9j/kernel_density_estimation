@@ -1,5 +1,5 @@
 # Kernel Density Estimation
 
-Purpose: To perform Kernel Density Estimation for univariate and bivariate cases from scratch
+Purpose: To calculate Kernel Density Estimations for univariate and bivariate cases from scratch, and visualize them.
 
 Tools Used: R
